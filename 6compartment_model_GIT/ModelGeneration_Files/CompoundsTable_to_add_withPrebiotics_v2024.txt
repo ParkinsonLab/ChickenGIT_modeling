@@ -1,0 +1,65 @@
+variable	unit	met_name	met_id	value	met_mM	category
+Cellulose	g_per100g	cellulose	EX_cpd90020_e0	2	0.0246645254569967	Carbohydrates
+Cellulose	g_per100g	cellulose	EX_cpd90020_e0	4	0.04932905	Carbohydrates
+Cellulose	g_per100g	cellulose	EX_cpd90020_e0	8	0.0986581018279866	Carbohydrates
+Pantothenic_acid	g_per100g	Pantothenic acid	EX_cpd00644_e0	0.002	0.009174312	Vitamins and minerals
+Pantothenic_acid	g_per100g	Pantothenic acid	EX_cpd00644_e0	0.01	0.0458715596330275	Vitamins and minerals
+Pantothenic_acid	g_per100g	Pantothenic acid	EX_cpd00644_e0	0.1	0.458715596330275	Vitamins and minerals
+Folate	g_per100g	Folate	EX_cpd00393_e0	0.001	0.00227790432801822	Vitamins and minerals
+Maltodextrin	g_per100g	Maltodextrin	EX_cpd11976_e0	5	7.50750750750751	Carbohydrates
+Maltoheptaose	g_per100g	Maltoheptaose	EX_cpd15494_e0	1	0.868055555555556	Carbohydrates
+Maltoheptaose	g_per100g	Maltoheptaose	EX_cpd15494_e0	5	4.34027777777778	Carbohydrates
+Maltooctaose	g_per100g	malto-8-ose	EX_cpd90005_e0	1	0.760363758021838	Carbohydrates
+Maltooctaose	g_per100g	malto-8-ose	EX_cpd90005_e0	5	3.80181879010919	Carbohydrates
+Maltotridecaose	g_per100g	malto-13-ose	EX_cpd90008_e0	1	0.470400739093641	Carbohydrates
+Maltotridecaose	g_per100g	malto-13-ose	EX_cpd90008_e0	5	2.35200369546821	Carbohydrates
+L-Methionine	g_per100g	L-Methionine	EX_cpd00060_e0	2	13.42282	Proteins
+L-Leucine	g_per100g	L-Leucine	EX_cpd00107_e0	2	15.2671755725191	Proteins
+L-Leucine	g_per100g	L-Leucine	EX_cpd00107_e0	5	38.1679389312977	Proteins
+Riboflavin	g_per100g	Riboflavin	EX_cpd00220_e0	0.001	0.00265957446808511	Vitamins and minerals
+Riboflavin	g_per100g	Riboflavin	EX_cpd00220_e0	0.002	0.00531914893617021	Vitamins and minerals
+Inulin	g_per100g	(2,1-beta-D-fructan)	EX_cpd28763_e0	2	1.00013501822746	Carbohydrates
+1-4-beta-Xylan_n500	g_per100g	Xylan-b-1-4	EX_cpd90021_e0	0.5	0.00756710928706783	Carbohydrates
+1-4-beta-Xylan_n500	g_per100g	Xylan-b-1-4	EX_cpd90021_e0	2.5	0.0378355464353391	Carbohydrates
+1-4-beta-XOS_n10	g_per100g	Xylooligo-b-1-4	EX_cpd90022_e0	0.5	0.0746736760357239	Carbohydrates
+1-4-beta-XOS_n10	g_per100g	Xylooligo-b-1-4	EX_cpd90022_e0	2	0.373368380178619	Carbohydrates
+1-5-L-Arabinooligosaccharides	g_per100g	1-5-L-Arabinooligosaccharides	EX_cpd50010_e0	5	2.52308623908765	Carbohydrates
+XXXG_xyloglucan_oligosaccharide	g_per100g	XXXG xyloglucan oligosaccharide	EX_cpd23848_e0	1	0.941619585687382	Carbohydrates
+XXXG_xyloglucan_oligosaccharide	g_per100g	XXXG xyloglucan oligosaccharide	EX_cpd23848_e0	5	4.70809792843691	Carbohydrates
+Beta-1-4-XOS_n4	g_per100g	Beta-1,4-XOS	EX_cpd55500_e0	1	1.82982616651418	Carbohydrates
+Beta-1-4-XOS_n4	g_per100g	Beta-1,4-XOS	EX_cpd55500_e0	5	9.14913083257091	Carbohydrates
+1-4-beta-D-mannan_n6	g_per100g	1,4-beta-D-mannan	EX_cpd50020_e0	1	1.02796052631579	Carbohydrates
+1-4-beta-D-mannan_n6	g_per100g	1,4-beta-D-mannan	EX_cpd50020_e0	2	2.05592105263158	Carbohydrates
+1-2-beta-D-Mannan_n3	g_per100g	1,2-beta-D-Mannan	EX_cpd11685_e0	1	1.98412698412698	Carbohydrates
+1-2-beta-D-Mannan_n3	g_per100g	1,2-beta-D-Mannan	EX_cpd11685_e0	5	9.92063492063492	Carbohydrates
+1-4-beta-D-Mannooligosaccharide_n10	g_per100g	1,4-beta-D-Mannooligosaccharide	EX_cpd50888_e0	0.5	0.308375477981991	Carbohydrates
+1-4-beta-D-Mannooligosaccharide_n10	g_per100g	1,4-beta-D-Mannooligosaccharide	EX_cpd50888_e0	2	1.23350191192796	Carbohydrates
+Methylesterified-homogalacturonan	g_per100g	Methylesterified-homogalacturonan	EX_cpd27519_e0	1	1.69932197053376	Carbohydrates
+Methylesterified-homogalacturonan	g_per100g	Methylesterified-homogalacturonan	EX_cpd27519_e0	5	8.49660985266878	Carbohydrates
+1-2-beta-D-Glucan_n20	g_per100g	1,2-beta-D-Glucan	EX_cpd55200_e0	1	0.278932247357117	Carbohydrates
+1-2-beta-D-Glucan_n20	g_per100g	1,2-beta-D-Glucan	EX_cpd55200_e0	5	1.39466123678558	Carbohydrates
+Celloheptaose	g_per100g	Celloheptaose	EX_cpd03718_e0	5	4.34027777777778	Carbohydrates
+Galactan_n4	g_per100g	Galactan	EX_cpd50166_e0	2	3.000300030003	Carbohydrates
+Galactan_n4	g_per100g	Galactan	EX_cpd50166_e0	5	7.5007500750075	Carbohydrates
+Levan_n6	g_per100g	Levan	EX_cpd50640_e0	2	2.01816347124117	Carbohydrates
+L-Threonine	g_per100g	L-Threonine	EX_cpd00161_e0	1	8.40336134453782	Proteins
+L-Threonine	g_per100g	L-Threonine	EX_cpd00161_e0	2	16.80672	Proteins
+L-Threonine	g_per100g	L-Threonine	EX_cpd00161_e0	3	25.21008	Proteins
+L-Threonine	g_per100g	L-Threonine	EX_cpd00161_e0	5	42.0168067226891	Proteins
+Glycine	g_per100g	Glycine	EX_cpd00033_e0	1	13.3333333333333	Proteins
+Glycine	g_per100g	Glycine	EX_cpd00033_e0	5	66.6666666666667	Proteins
+Stachyose	g_per100g	Stachyose	EX_cpd01133_e0	1	1.5015015015015	Carbohydrates
+Stachyose	g_per100g	Stachyose	EX_cpd01133_e0	5	7.50750750750751	Carbohydrates
+Starch_n27	g_per100g	starch (n=27, 3xalpha1-6, 23xalpha1-4)	EX_cpd90003_e0	5	1.1374444671175	Carbohydrates
+Starch_n27	g_per100g	starch (n=27, 3xalpha1-6, 23xalpha1-4)	EX_cpd90003_e0	7	1.592422	Carbohydrates
+Starch_n27	g_per100g	starch (n=27, 3xalpha1-6, 23xalpha1-4)	EX_cpd90003_e0	10	2.27488893423501	Carbohydrates
+Starch_n19	g_per100g	starch (n=19, 3xalpha1-6, 15xalpha1-4)	EX_cpd90004_e0	5	1.61358405417512	Carbohydrates
+Starch_n19	g_per100g	starch (n=19, 3xalpha1-6, 15xalpha1-4)	EX_cpd90004_e0	7	2.259018	Carbohydrates
+Starch_n19	g_per100g	starch (n=19, 3xalpha1-6, 15xalpha1-4)	EX_cpd90004_e0	10	3.22716810835023	Carbohydrates
+Raffinose	g_per100g	Melitose	EX_cpd00382_e0	2	3.96825396825397	Carbohydrates
+Zinc	g_per100g	Zinc	EX_cpd00034_e0	0.04	0.615384615384615	Vitamins and minerals
+Zinc	g_per100g	Zinc	EX_cpd00034_e0	0.02	0.307692307692308	Vitamins and minerals
+Thiamin	g_per100g	Thiamin	EX_cpd00305_e0	0.001	0.00377358490566038	Vitamins and minerals
+Thiamin	g_per100g	Thiamin	EX_cpd00305_e0	0.005	0.0188679245283019	Vitamins and minerals
+Fe3	g_per100g	Fe3+	EX_cpd10516_e0	0.04	0.714285714285714	Vitamins and minerals
+Magnesium	g_per100g	Magnesium	EX_cpd00254_e0	1	41.6666666666667	Vitamins and minerals

@@ -1,0 +1,3 @@
+Compartment	initial_community_size	essential_conc_mM	arena_size	stir	pH	oxygen_mM	remove_bac_perc	remove_freq_hrs	remove_from_ileum	remove_sublb_perc	remove_bac_perc_night	remove_from_ileum_night	remove_sublb_perc_night
+Ileum	1000	4.00E-04	100	FALSE	6.5	1.00E-05	0.2	1	NA	0.8	0.1	NA	0.4
+Cecum	4000	1.60E-03	100	FALSE	7	1.00E-07	0.2	4	0.025	0.2	0.1	0.025	0.1

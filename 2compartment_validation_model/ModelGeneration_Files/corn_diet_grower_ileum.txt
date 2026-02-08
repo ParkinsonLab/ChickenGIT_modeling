@@ -1,0 +1,72 @@
+variable	unit	met_name	met_id	met_mM	category
+70	Fibre g/kg	g_per100g	cellulose	EX_cpd90020_e0	0.0221833537391174	Carbohydrates
+68	Starch g/kg	g_per100g	starch (n=27, 3xalpha1-6, 23xalpha1-4)	EX_cpd90003_e0	0.680789842575411	Carbohydrates
+69	Starch g/kg	g_per100g	starch (n=19, 3xalpha1-6, 15xalpha1-4)	EX_cpd90004_e0	0.965771662688644	Carbohydrates
+14	Calcium g/kg	g_per100g	Calcium	EX_cpd00063_e0	9.13911925	Vitamins and minerals
+1	Phosphorus g/kg	g_per100g	Phosphorus	EX_cpd00009_e0	2.5033138125	Vitamins and minerals
+41	Magnesium g/kg	g_per100g	Magnesium	EX_cpd00254_e0	4.0867065	Vitamins and minerals
+37	Potassium g/kg	g_per100g	Potassium	EX_cpd00205_e0	5.4191542948718	Vitamins and minerals
+49	Sodium g/kg	g_per100g	Sodium	EX_cpd00971_e0	3.32200186956522	Vitamins and minerals
+22	Chloride g/kg	g_per100g	Chloride	EX_cpd00099_e0	7.00754028571428	Vitamins and minerals
+4	Manganese mg/kg	g_per100g	Manganese	EX_cpd00030_e0	0.0260546168181818	Vitamins and minerals
+6	Zinc mg/kg	g_per100g	Zinc	EX_cpd00034_e0	0.0338199755384616	Vitamins and minerals
+12	Copper mg/kg	g_per100g	Copper	EX_cpd00058_e0	0.00618053698412698	Vitamins and minerals
+61	Fe mg/kg	g_per100g	Fe2+	EX_cpd10515_e0	0.156203484821429	Vitamins and minerals
+62	Fe mg/kg	g_per100g	Fe3+	EX_cpd10516_e0	0.109342439375	Vitamins and minerals
+51	Selenium mg/kg	g_per100g	Selenium	EX_cpd01079_e0	0.000174632784810127	Vitamins and minerals
+31	Cobalt mg/kg	g_per100g	Cobalt	EX_cpd00149_e0	0.000812973220338983	Vitamins and minerals
+50	Iodine mg/kg	g_per100g	Iodine	EX_cpd00994_e0	5.85237283464567e-05	Vitamins and minerals
+8	L-Lysine g/kg	g_per100g	L-Lysine	EX_cpd00039_e0	1.94847797619047	Proteins
+34	L-Threonine g/kg	g_per100g	L-Threonine	EX_cpd00161_e0	1.49592132352941	Proteins
+13	L-Methionine g/kg	g_per100g	L-Methionine	EX_cpd00060_e0	1.07765590604027	Proteins
+45	L-Cystine g/kg	g_per100g	L-Cystine	EX_cpd00381_e0	0.350184927083332	Proteins
+20	L-Cysteine g/kg	g_per100g	L-Cysteine	EX_cpd00084_e0	1.32326539256198	Proteins
+15	L-Tryptophan g/kg	g_per100g	L-Tryptophan	EX_cpd00065_e0	0.25241087009804	Proteins
+44	L-Isoleucine g/kg	g_per100g	L-Isoleucine	EX_cpd00322_e0	1.50487847328244	Proteins
+33	L-Valine g/kg	g_per100g	L-Valine	EX_cpd00156_e0	1.92446457264957	Proteins
+25	L-Leucine g/kg	g_per100g	L-Leucine	EX_cpd00107_e0	3.1854752480916	Proteins
+16	L-Phenylalanine g/kg	g_per100g	L-Phenylalanine	EX_cpd00066_e0	1.38395998484848	Proteins
+17	L-Tyrosine g/kg	g_per100g	L-Tyrosine	EX_cpd00069_e0	0.934004917127072	Proteins
+27	L-Histidine g/kg	g_per100g	L-Histidine	EX_cpd00119_e0	0.818655	Proteins
+10	L-Arginine g/kg	g_per100g	L-Arginine	EX_cpd00051_e0	1.68647844285714	Proteins
+7	L-Alanine g/kg	g_per100g	L-Alanine	EX_cpd00035_e0	2.77517741573033	Proteins
+29	L-Asparagine g/kg	g_per100g	L-Asparagine	EX_cpd00132_e0	3.33683475378787	Proteins
+2	L-Glutamate g/kg	g_per100g	L-Glutamate	EX_cpd00023_e0	5.57678285958905	Proteins
+5	Glycine g/kg	g_per100g	Glycine	EX_cpd00033_e0	2.53752916666667	Proteins
+11	L-Serine g/kg	g_per100g	L-Serine	EX_cpd00054_e0	2.14199080952381	Proteins
+28	L-Proline g/kg	g_per100g	L-Proline	EX_cpd00129_e0	2.55505925438597	Proteins
+57	Myristic acid g/kg	g_per100g	Myristic acid	EX_cpd03847_e0	0.00727894096916301	Fats
+38	Palmitic acid g/kg	g_per100g	Palmitic acid	EX_cpd00214_e0	0.415377607843137	Fats
+64	Palmitoleic acid g/kg	g_per100g	Palmitoleic acid	EX_cpd15237_e0	0.00227985296442688	Fats
+52	Stearic acid g/kg	g_per100g	Stearic acid	EX_cpd01080_e0	0.153897922261484	Fats
+65	Oleic acid g/kg	g_per100g	Oleic acid	EX_cpd15269_e0	0.515444370106761	Fats
+53	Linoleic acid g/kg	g_per100g	Linoleic acid	EX_cpd01122_e0	0.63913579641577	Fats
+59	Linolenic acid g/kg	g_per100g	Linolenic acid	EX_cpd03850_e0	0.17182436101083	Fats
+58	Arachidic acid g/kg	g_per100g	Arachidic acid	EX_cpd03848_e0	0.0182301800643087	Fats
+66	Icosenoic acid g/kg	g_per100g	Icosenoic acid	EX_cpd16341_e0	0.00266667961165048	Fats
+67	Vitamin A microg/kg	g_per100g	Vitamin A	EX_cpd29556_e0	1.52861573426573e-06	Vitamins and minerals
+55	Vitamin E mg/kg	g_per100g	Vitamin E	EX_cpd01628_e0	0.00305430169767442	Vitamins and minerals
+63	Vitamin K mg/kg	g_per100g	Vitamin K	EX_cpd11904_e0	0.000102952848837209	Vitamins and minerals
+43	Thiamin mg/kg	g_per100g	Thiamin	EX_cpd00305_e0	0.000892432754716981	Vitamins and minerals
+39	Riboflavin mg/kg	g_per100g	Riboflavin	EX_cpd00220_e0	0.00118912356382979	Vitamins and minerals
+42	Pyridoxol mg/kg	g_per100g	Pyridoxol	EX_cpd00263_e0	0.00192852650887574	Vitamins and minerals
+56	Vitamin B12 microg/kg	g_per100g	Vitamin B12	EX_cpd03424_e0	7.67148288973384e-08	Vitamins and minerals
+48	Pantothenic acid mg/kg	g_per100g	Pantothenic acid	EX_cpd00644_e0	0.0413163336215228	Vitamins and minerals
+47	Folate mg/kg	g_per100g	Folate	EX_cpd00393_e0	4.32921640091116e-05	Vitamins and minerals
+24	Biotin mg/kg	g_per100g	Biotin	EX_cpd00104_e0	3.43274814814815e-05	Vitamins and minerals
+21	Choline mg/kg	g_per100g	Choline	EX_cpd00098_e0	0.472865303846154	Vitamins and minerals
+9	Sulfate g/kg	g_per100g	Sulfate	EX_cpd00048_e0	0.208333333333333	Vitamins and minerals
+3	D-Glucose g/kg	g_per100g	D-Glucose	EX_cpd00027_e0	0.108730199166667	Carbohydrates
+19	D-Fructose g/kg	g_per100g	D-Fructose	EX_cpd00082_e0	0.107539085833333	Carbohydrates
+26	Galactose g/kg	g_per100g	Galactose	EX_cpd00108_e0	0.0361038777777778	Carbohydrates
+18	Sucrose g/kg	g_per100g	Sucrose	EX_cpd00076_e0	0.342811848245614	Carbohydrates
+46	Melitose g/kg	g_per100g	Melitose	EX_cpd00382_e0	0.0214720619047619	Carbohydrates
+54	Stachyose g/kg	g_per100g	Stachyose	EX_cpd01133_e0	0.100629117117117	Carbohydrates
+60	Verbascose g/kg	g_per100g	Verbascose	EX_cpd05170_e0	0.0338359130434783	Carbohydrates
+35	beta-D-Glucuronic acid g/kg	g_per100g	Glucuronate	EX_cpd00164_e0	2.98861554404145	Carbohydrates
+23	Glycerol g/kg	g_per100g	Glycerol	EX_cpd00100_e0	0.0191304347826087	Carbohydrates
+30	D-Mannose g/kg	g_per100g	D-Mannose	EX_cpd00138_e0	0.00244444444444444	Carbohydrates
+40	L-Arabinose g/kg	g_per100g	L-Arabinose	EX_cpd00224_e0	0.00906666666666667	Carbohydrates
+32	Xylose g/kg	g_per100g	Xylose	EX_cpd00154_e0	0.0117333333333333	Carbohydrates
+701	Dodecanoic acid	g_per100g	Dodecanoic acid	EX_cpd01741_e0	0.01	Fats
+71	Capric acid	g_per100g	Decanoate	EX_cpd01107_e0	0.01	Fats

@@ -1,0 +1,7 @@
+variable	unit	met_name	met_id	value	met_mM	category	dose	group_short
+Cellulose	g_per100g	cellulose	EX_cpd90020_e0	1	0.01233226	Carbohydrates	low1	G2
+Cellulose	g_per100g	cellulose	EX_cpd90020_e0	4	0.04932905	Carbohydrates	high1	G3
+L-Threonine	g_per100g	L-Threonine	EX_cpd00161_e0	0.4	3.361345	Proteins	low2	G4
+L-Threonine	g_per100g	L-Threonine	EX_cpd00161_e0	2.5	21.0084	Proteins	high2	G5
+Starch	g_per100g	starch 	EX_cpd90003_e0	1.25	0.2843611	Carbohydrates	low2	G6
+Starch	g_per100g	starch 	EX_cpd90003_e0	2	0.4549778	Carbohydrates	high1	G7
