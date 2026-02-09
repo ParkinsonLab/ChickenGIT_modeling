@@ -115,11 +115,11 @@ A two-compartment (ileum–cecum) model is also provided for validation against 
 | `Figure4A_CorrelationAnalyses_metabolomics_wet_NORM_vs_predicted_medians.R` | Correlates predicted metabolite concentrations with experimental metabolomics |
 | `Figure4B_PCoA_composition_initial16S_simRelAbund_trial16S_ileum_cecum.R` | PCoA comparing predicted community composition to observed 16S profiles |
 | `FigureS8_Plot_metabolomicsMets_Fluxes.R` | Supplementary metabolomics vs. predicted flux comparisons |
-
+```
 
 ## Usage
 
-### Running 6-compartment simulations
+## Running 6-compartment simulations
 
 Simulations are designed to run on an HPC cluster. Each script accepts command-line arguments, e.g.:
 
@@ -135,7 +135,7 @@ Rscript Simulation_coupling_6comps_args_universal_growerdiet_add24hMets_addCompo
   <sample_id> <diet_type> <simulation_date> <compound_name> <compound_concentration>
 ```
 
-### Running 2-compartment validation simulations
+## Running 2-compartment validation simulations
 
 ```bash
 Rscript Simulation_Ileum_Cecum_universal_compounds_L2reg_ctFBA.R \
