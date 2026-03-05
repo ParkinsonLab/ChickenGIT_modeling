@@ -132,6 +132,20 @@ fix_matrix_rownames <- function(mod) {
 # -----------------------------------------------------------------
 # build_comm_model() - handle Matrix types properly
 # -----------------------------------------------------------------
+unique_react_ids <- function(mod, tag) {
+  rid <- react_id(mod)
+  dup <- duplicated(rid)
+  if (any(dup)) {                           # only touch if needed
+    react_id(mod) <- paste(tag, rid, sep = "__")
+    # keep gpr, subSys, etc. unchanged – only IDs must differ
+  } else {
+    react_id(mod) <- paste(tag, rid, sep = "__")
+  }
+  mod
+}
+
+
+
 build_comm_model <- function(arena, abund_weight = TRUE) {
   
   # Collect unique model objects
